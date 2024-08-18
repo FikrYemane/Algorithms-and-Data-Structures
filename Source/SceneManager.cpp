@@ -321,7 +321,7 @@ int SceneManager::FindTextureSlot(std::string tag)
 }
 
 /***********************************************************
- *  FindMaterial()
+ *  FindMaterial()  
  *
  *  This method is used for getting a material from the previously
  *  defined materials list that is associated with the passed in tag.
